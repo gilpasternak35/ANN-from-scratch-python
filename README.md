@@ -1,6 +1,6 @@
 # ANN-from-scratch-python
 
-A one week hackathon project, mathed whiteboarded and derived entirely from sractch. Partner coded with @gilpasternak35. Extensible design, best implementation practices and comprehensible test coverage. 
+A one week hackathon project, mathed, whiteboarded, and derived entirely from scratch. Partner coded by @limpa105 and @gilpasternak35. Extensible design, best implementation practices and comprehensible test coverage. 
 
 **Features include**: 
 * Cached Recursive backpropogation
